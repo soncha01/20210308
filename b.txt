@@ -4,3 +4,4 @@ asdfasd
 브랜치 연습
 1. 시작
 
+2. fit_test2 생성
